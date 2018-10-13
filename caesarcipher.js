@@ -1,4 +1,4 @@
-function rot13(str) {LBH QVQ VG!
+function rot13(str) { LBH QVQ VG!
 str = str.split('').map(cipher).join('');
 return str;
 function cipher(char){ 
