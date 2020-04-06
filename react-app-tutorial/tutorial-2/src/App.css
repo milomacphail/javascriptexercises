@@ -1,0 +1,19 @@
+.card {
+  width: 18em;
+  margin: 10px;
+}
+
+.users {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn-group {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
